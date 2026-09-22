@@ -9,10 +9,6 @@ I love creating things that are simple, meaningful, and visually interesting.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=FFFFFF&center=false&vCenter=true&width=300&lines=🎨+Figma;🖼️+Photoshop;✨+Creative+Design)](https://git.io/typing-svg)
 
-### 🎨 My Process
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=FFFFFF&center=false&vCenter=true&width=500&lines=💡+Imagine;✏️+Create;🔍+Refine;🚀+Build)](https://git.io/typing-svg)
-
 > Designing whatever comes to mind. ✨
 
 <!--
