@@ -1,4 +1,7 @@
-## Hi there 👋
+Hey there 👋
+I'm Sushil a Designer...
+I design and build whatever i imagine
+I use Figma, and Photoshop
 
 <!--
 **sushil1311/sushil1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
